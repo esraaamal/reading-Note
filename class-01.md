@@ -58,3 +58,13 @@ Media queries were built as an extension to media types commonly found when targ
 **Logical operators** in **media queries** help build powerful expressions.
  There are three different logical operators available for use within media queries, including **and**, **not**, and **only**.
 Using the **and** logical operator within a media query allows an extra condition to be added, The **not** logical operator negates the query
+
+i use this method in my previous project with the navigation bar:
+**This image veiw on the mobile device :**
+![...](img/435.png)
+**This image veiw on the Desktop :**
+![...](img/3011.png)
+
+## floats help Responsive Web Design
+Aside from the simple example of wrapping text around images, floats can be used to create entire web layouts.
+
