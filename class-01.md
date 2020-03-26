@@ -60,12 +60,16 @@ Media queries were built as an extension to media types commonly found when targ
 Using the **and** logical operator within a media query allows an extra condition to be added, The **not** logical operator negates the query
 
 i use this method in my previous project with the navigation bar:
-**This image veiw on the mobile device :**
+#### This image veiw on the mobile device :**
 ![...](img/435.png)
 
 
+
+
+
+
 ____________________________________
-**This image veiw on the Desktop :**
+#### This image veiw on the Desktop :**
 ![...](img/3011.png)
 
 ## floats help Responsive Web Design
