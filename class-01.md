@@ -61,7 +61,7 @@ Using the **and** logical operator within a media query allows an extra conditio
 
 i use this method in my previous project with the navigation bar:
 
-#### This image veiw on the mobile device :**
+#### This image veiw on the mobile device :
 _____________________________________
 
 
@@ -74,7 +74,7 @@ _____________________________________
 
 
 ____________________________________
-#### This image veiw on the Desktop :**
+#### This image veiw on the Desktop :
 ![...](img/3011.png)
 
 ## floats help Responsive Web Design
