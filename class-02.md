@@ -1,6 +1,7 @@
 # jQuery it makes coding simpler. 
 
-**JQuery is a javascript file that we include  in our web pages it lets us find** **element using Css-style selector and then do something with the element using** **jQuery methods, its also*****offers a simple way to achieve a variety of common***
+**JQuery is a javascript file that we include  in our web pages it lets us find** **element using Css-style
+ selector and then do something with the element using** **jQuery methods, its also*****offers a simple way to achieve a variety of common***
 ***JavaScript tasks quickly and consistently, across all major***
 ***browsers and without any fallback code needed.***
 
