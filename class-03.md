@@ -42,6 +42,6 @@ Mustache.render(“Hello, {{name}}”, { name: “Sherlynn” });
 
 #### flex-flow
 The two properties flex-direction and flex-wrap are used so often together that the shorthand property flex-flow was created to combine them. This shorthand property accepts the value of one of the two properties separated by a space.
-For example, you can use flex-flow: row wrap to set rows and wrap them.
+
 
 
