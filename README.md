@@ -10,7 +10,7 @@ class-03|Flexbox and Templating/[link](https://esraaamal.github.io/reading-Note/
 class-04|Responsive Web Design and Regular Expressions/[link](https://esraaamal.github.io/reading-Note/class-04)|
 class-05|Heroku Deployment/[link](https://esraaamal.github.io/reading-Note/class-05)|
 class-06|Node, Express, and APIs/[link](https://esraaamal.github.io/reading-Note/class-06)|
-class-07|/[link](https://esraaamal.github.io/reading-Note/class-07)|
+class-07|APIs continued/[link](https://esraaamal.github.io/reading-Note/class-07)|
 class-08|/[link](https://esraaamal.github.io/reading-Note/class-08)|
 class-09|/[link](https://esraaamal.github.io/reading-Note/class-09)|
 class-010|/[link](https://esraaamal.github.io/reading-Note/class-10)|
