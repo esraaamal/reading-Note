@@ -13,8 +13,8 @@ class-06|Node, Express, and APIs/[link](https://esraaamal.github.io/reading-Note
 class-07|APIs continued/[link](https://esraaamal.github.io/reading-Note/class-07)|
 class-08|sql/[link](https://esraaamal.github.io/reading-Note/class-08)|
 class-09|Refactoring/[link](https://esraaamal.github.io/reading-Note/class-09)|
-class-010|/[link](https://esraaamal.github.io/reading-Note/class-10)|
-class-011|/[link](https://esraaamal.github.io/reading-Note/class-11)|
+class-010|The Call Stack and Debugging/[link](https://esraaamal.github.io/reading-Note/class-10)|
+class-011|EJS/[link](https://esraaamal.github.io/reading-Note/class-11)|
 class-012|/[link](#)|
 class-013|/[link](#)|
 class-014a|/[link](#)|
