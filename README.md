@@ -17,5 +17,5 @@ class-010|The Call Stack and Debugging/[link](https://esraaamal.github.io/readin
 class-011|EJS/[link](https://esraaamal.github.io/reading-Note/class-11)|
 class-012| EJS Partials/[link](https://esraaamal.github.io/reading-Note/class-12)|
 class-013| Update/Delete/[link](https://esraaamal.github.io/reading-Note/class-13)|
-class-014a|/[link](https://esraaamal.github.io/reading-Note/class-14)|
-class-014b|/[link](#)|
+class-014a|DATABASE NORMALIZATION/[link](https://esraaamal.github.io/reading-Note/class-14)|
+class-015| Diversity and Inclusion/[link](https://esraaamal.github.io/reading-Note/class-15)|
