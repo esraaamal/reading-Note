@@ -18,4 +18,4 @@ class-011|EJS/[link](https://esraaamal.github.io/reading-Note/class-11)|
 class-012| EJS Partials/[link](https://esraaamal.github.io/reading-Note/class-12)|
 class-013| Update/Delete/[link](https://esraaamal.github.io/reading-Note/class-13)|
 class-014a|DATABASE NORMALIZATION/[link](https://esraaamal.github.io/reading-Note/class-14)|
-class-015| Diversity and Inclusion/[link](https://esraaamal.github.io/reading-Note/class-15)|
+class-015| DIVERSITY AND INCLUSION/[link](https://esraaamal.github.io/reading-Note/class-15)|
